@@ -1,2 +1,2 @@
 # PIPN
-The code of PIPN will be released after the paper is accepted.
+You can cite from: https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.581596.
